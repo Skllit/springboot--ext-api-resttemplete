@@ -6,7 +6,7 @@ pipeline {
         K8S_DEPLOYMENT = "springboot-app"
         K8S_NAMESPACE = "default"
         DOCKER_USERNAME = "sklikith"
-        DOCKER_PASSWORD = "8217577409"  // ⚠️ (Security Risk! Use Jenkins Credentials Instead)
+        DOCKER_PASSWORD = "8217577409lee"  // ⚠️ (Security Risk! Use Jenkins Credentials Instead)
     }
 
     stages {
